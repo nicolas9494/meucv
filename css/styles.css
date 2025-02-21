@@ -1,0 +1,23 @@
+{font-family:arial,sans-serf;/* aqui defino a fonte */ }
+
+.logo {text-aling:center; 
+margin-top:50px;}
+
+.logo img{ max-width: 50px;}
+
+.container {
+    margin-top: 30px;
+}
+
+/* Estilização do formulário */
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
